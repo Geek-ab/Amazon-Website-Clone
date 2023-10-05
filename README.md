@@ -1,1 +1,1 @@
-#this is my local repo
+# amazon clone using html and css
